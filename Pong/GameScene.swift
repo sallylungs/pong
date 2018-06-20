@@ -17,6 +17,7 @@ class GameScene: SKScene {
     var main = SKSpriteNode()
     var enemyspeed = 1.0
     
+    // test: new line to commit
     // Data objects
     var score = ["main": 0,
                  "enemy": 0]
